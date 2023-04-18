@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirst_1</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">О нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="Logo_of_app_2">App</string>
+    <string name="Courses_start_date">Старт обучения</string>
+    <string name="Courses_level">Уровень</string>
+    <string name="course_desc"> За прлопраорпол</string>
+</resources>
